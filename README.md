@@ -1,4 +1,4 @@
-# Skeleton
+# LED/Push Sniffer RS
 
 ![Akornsys RDI](https://github.com/akornsys-rdi/skeleton/raw/master/doc/img/akornsys-logo.png)
 ![OSHW SPFMDBC](https://github.com/akornsys-rdi/skeleton/raw/master/doc/img/oshw-logo.png)
